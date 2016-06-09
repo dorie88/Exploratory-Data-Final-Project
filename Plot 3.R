@@ -1,3 +1,5 @@
+NEI <- readRDS("summarySCC_PM25.rds")
+SCC <- readRDS("Source_Classification_Code.rds") 
 #install the ggplot2 package   
 install.packages("ggplot2")
 #select your location
