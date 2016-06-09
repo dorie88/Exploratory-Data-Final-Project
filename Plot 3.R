@@ -1,3 +1,4 @@
+#install the ggplot2 package   
 install.packages("ggplot2")
 #select your location
 library("ggplot2")
